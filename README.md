@@ -19,3 +19,5 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+##Links Úteis:
+[README Personalizado](https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github)
